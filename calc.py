@@ -7,3 +7,4 @@ if(age>=18 and citizenship=="yes"):
     print(name,"congratulations! you are eligible to vote")
 else:
     print(name, "sorry you are not eligible to vote")
+print("thank you for using our voting eligibility checker!")
