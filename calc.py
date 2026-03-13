@@ -1,3 +1,4 @@
+print("--welcome to the voting eligibility checker!--")
 name= input("enter your name:")
 age= int(input("enter your age:"))
 #lower() function will convert the input to lowercase , strip() function will remove any leading or trailing whitespace from the input
